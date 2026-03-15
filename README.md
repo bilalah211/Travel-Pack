@@ -54,14 +54,14 @@ stored using **Firebase**.
 ## 📷 Screenshots
 
 ### Onboarding Screen
-![Onboarding](screenshots/onboarding.JPG)
+![Onboarding](screenshot/onboarding.JPG)
 
 ### Home Screen
-![Home](screenshots/home.JPG)
+![Home](screenshot/home.JPG)
 
 ### Profile Screen
-![Profile](screenshots/profile.JPG)
+![Profile](screenshot/profile.JPG)
 
 ### Folder Structure
-![Folder](screenshots/folder.JPG)
+![Folder](screenshot/folder.JPG)
 
