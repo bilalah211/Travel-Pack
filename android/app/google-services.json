@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749297526673",
+    "project_id": "trippackai",
+    "storage_bucket": "trippackai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749297526673:android:c72a60d9cc1e5961db5c30",
+        "android_client_info": {
+          "package_name": "com.example.travel_pack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpIdoQiHX3IwhL3xAjvQXertnNYF9Y9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
