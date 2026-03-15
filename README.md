@@ -53,15 +53,15 @@ stored using **Firebase**.
 
 ## 📷 Screenshots
 
+### Onboarding Screen
+![Onboarding](screenshots/onboarding.JPG)
+
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home](screenshots/home.JPG)
 
-### Packing List Screen
-![Packing List](screenshots/packing.png)
+### Profile Screen
+![Profile](screenshots/profile.JPG)
 
-### Weather Info Screen
-![Weather Screen](screenshots/weather.png)
-
-### Image Upload Feature
-![Upload Image](screenshots/upload.png)
+### Folder Structure
+![Folder](screenshots/folder.JPG)
 
