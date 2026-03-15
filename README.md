@@ -53,6 +53,12 @@ stored using **Firebase**.
 
 ## 📷 Screenshots
 
+### Splash Screen
+![Splash](screenshot/loading.png)
+
+### Authentication Screen
+![Authentication](screenshot/auth.png)
+
 ### Onboarding Screen
 ![Onboarding](screenshot/onboarding.JPG)
 
