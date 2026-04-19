@@ -51,23 +51,16 @@ stored using **Firebase**.
 
 ---
 
-## 📷 Screenshots
+## 📸 App Screenshots
 
-### Splash Screen
-![Splash](screenshot/loading.PNG)
+### 🏗️ Entry & Authentication
+| Splash Screen | Authentication | Onboarding |
+| :---: | :---: | :---: |
+| <img src="screenshot/loading.PNG" width="220"> | <img src="screenshot/auth.PNG" width="220"> | <img src="screenshot/onboarding.JPG" width="220"> |
 
-### Authentication Screen
-![Authentication](screenshot/auth.PNG)
+<br>
 
-### Onboarding Screen
-![Onboarding](screenshot/onboarding.JPG)
-
-### Home Screen
-![Home](screenshot/home.JPG)
-
-### Profile Screen
-![Profile](screenshot/profile.JPG)
-
-### Folder Structure
-![Folder](screenshot/folder.JPG)
-
+### 📱 User Interface & Structure
+| Home Screen | Profile Screen | Folder Structure |
+| :---: | :---: | :---: |
+| <img src="screenshot/home.JPG" width="220"> | <img src="screenshot/profile.JPG" width="220"> | <img src="screenshot/folder.JPG" width="280"> |
